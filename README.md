@@ -1,4 +1,4 @@
-# Daily Task Mail Sender
+# Daily Tasks Mail Sender
 
 Welcome to the **Daily Task Email Reminder** project, a Python-based application that sends automated daily task reminders via email. Using SMTP and Gmail's secure server, this script delivers a formatted HTML email listing tasks for the current day. It's a simple yet effective tool for personal task management or sending reminders to others.
 
