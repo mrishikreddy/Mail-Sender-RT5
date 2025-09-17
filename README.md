@@ -21,7 +21,7 @@ To set up the **Daily Task Email Reminder** project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/daily-task-email-reminder.git
+   git clone https://github.com/mrishikreddy/Mail-Sender-RT5.git
    cd daily-task-email-reminder
    ```
 
